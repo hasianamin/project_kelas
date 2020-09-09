@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "username": "ian",
+            "password": "test123"
+        },
+        {
+            "id": 2,
+            "username": "admin",
+            "password": "root"
+        }
+    ],
+    "products":[
+        
+    ]
+}
